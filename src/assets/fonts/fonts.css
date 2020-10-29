@@ -1,0 +1,23 @@
+/* fonts */
+@font-face {
+    font-family: 'beINNormal';
+    src: url("../fonts/beINNormal.svg#beINNormal") format("svg"), url("../fonts/beINNormal.ttf") format("truetype"), url("../fonts/beINNormal.woff") format("woff");
+    font-weight: normal;
+    font-style: normal; }
+  @font-face {
+    font-family: 'bein-normal';
+    src: url("../fonts/bein-normal.eot");
+    src: url("../fonts/bein-normal.eot?#iefix") format("embedded-opentype"), url("../fonts/bein-normal.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+  @font-face {
+    font-family: 'beIN-Black';
+    src: url("../fonts/beIN-Black.eot");
+    src: url("../fonts/beIN-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/beIN-Black.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+  @font-face {
+    font-family: 'beINBlack';
+    src: url("../fonts/beINBlack.svg#beINBlack") format("svg"), url("../fonts/beINBlack.ttf") format("truetype"), url("../fonts/beINBlack.woff") format("woff");
+    font-weight: normal;
+    font-style: normal; }
