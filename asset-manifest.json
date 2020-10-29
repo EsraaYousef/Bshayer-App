@@ -1,0 +1,17 @@
+{
+  "main.css": "/static/css/main.344d4de7.chunk.css",
+  "main.js": "/static/js/main.cffa4a10.chunk.js",
+  "main.js.map": "/static/js/main.cffa4a10.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.6d7289ba.chunk.css": "/static/css/2.6d7289ba.chunk.css",
+  "static/js/2.24424b2b.chunk.js": "/static/js/2.24424b2b.chunk.js",
+  "static/js/2.24424b2b.chunk.js.map": "/static/js/2.24424b2b.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.7b8ef8fa37c780ee59d719eba6f9c06b.js": "/precache-manifest.7b8ef8fa37c780ee59d719eba6f9c06b.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.6d7289ba.chunk.css.map": "/static/css/2.6d7289ba.chunk.css.map",
+  "static/css/main.344d4de7.chunk.css.map": "/static/css/main.344d4de7.chunk.css.map",
+  "static/media/index.css": "/static/media/bg.b7b11b70.png",
+  "static/media/feedback-logo.png": "/static/media/feedback-logo.72c3c02b.png"
+}
