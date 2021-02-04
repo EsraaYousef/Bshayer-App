@@ -18,27 +18,27 @@ class Social extends Component {
                 </div>
                 <ul className="list-unstyled dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <li>
-                        <a href="#">
+                        <a href="https://www.google.com/">
                             <img src={facebook} alt="facebook" />
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="https://www.google.com/">
                             <img src={gmail} alt="facebook" />
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="https://www.google.com/">
                             <img src={twitter} alt="facebook" />
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="https://www.google.com/">
                             <img src={linkedin} alt="facebook" />
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="https://www.google.com/">
                             <img src={snapchat} alt="facebook" />
                         </a>
                     </li>

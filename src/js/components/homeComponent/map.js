@@ -35,7 +35,7 @@ class MapContainer extends Component {
 
                 <Marker 
                     onClick={this.onMarkerClick}
-                    name={'مكان العيادة بالسعودية'}
+                    name={'مكان العيادة '}
                     position={{lat: 31.0413814, lng: 31.3478201}}
                 />
         
@@ -53,5 +53,5 @@ class MapContainer extends Component {
     }
 }
 export default GoogleApiWrapper({
-    apiKey: ('AIzaSyDx--BILIM2LjZBxVMjGYVb8YqrY-Vk_Yk&callback=initMap')
+    // apiKey: ('AIzaSyDx--BILIM2LjZBxVMjGYVb8YqrY-Vk_Yk&callback=initMap')
 })(MapContainer)

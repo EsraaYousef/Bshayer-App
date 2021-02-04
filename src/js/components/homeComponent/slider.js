@@ -15,7 +15,7 @@ class SliderContainer extends Component {
 
     componentDidMount(){
 
-        axios.get('https://jsonplaceholder.typicode.com/photos')
+        axios.get('http://taha.rmal.com.sa/bash/api/slide')
         .then(res => {
             this.setState({
                 isLoaded: true,
@@ -41,7 +41,7 @@ class SliderContainer extends Component {
                         <div id="home"
                             key={item.id}
                             style={
-                                { background: `url('${item.url}') no-repeat center center` }
+                                { background: `url('${item.img}') no-repeat center center` }
                             }
                         >
                         </div>

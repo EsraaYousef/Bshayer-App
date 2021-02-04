@@ -41,7 +41,7 @@ class AboutPage extends Component {
                         <div className="mt">
                             <h3 className="title">نبذة عننا</h3>
                             <div className="flx">
-                                <img src={items.image}/>
+                                <img src={items.image} alt="main"/>
                                 <p>{items.bio}</p>
                             </div>
                         </div>

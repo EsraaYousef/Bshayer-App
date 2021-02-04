@@ -127,7 +127,7 @@ class Footer extends Component {
                   </div>
                 </div>
                 <div className="copy-right">
-                  <p>جميع الحقوق محفوظة لشركة <a href="https://rmal.com.sa/" target="_blank">رمال الأودية</a></p>
+                  <p>جميع الحقوق محفوظة لشركة <a href="https://rmal.com.sa/" target="_blank" rel="noopener noreferrer">رمال الأودية</a></p>
                 </div>
             </div>
           );

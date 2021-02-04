@@ -36,7 +36,7 @@ class Video extends Component {
                         <div className="row">
                         {videos.map((item) => (
                             <div className="col-md-4" key={item.id}>
-                                <div className=" vd-card">
+                                <div className="vd-card">
                                     <YoutubeEmbedVideo
                                         poster= {item.img}
                                         videoId={item.source} 

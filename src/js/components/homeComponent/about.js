@@ -32,11 +32,11 @@ class About extends Component {
             return (
                 <div className="about-section">
                     <div className="flx">
-                        <img src={items.image}/>
+                        <img src={items.image} alt="about"/>
                         <p>{items.bio}</p>
                     </div>
                     <div className="bottom-link">
-                        <a href="#" className="more">المزيد</a>
+                        <a href="Bashair.sindi@gmail.com" className="more">المزيد</a>
                     </div>
                     <Social />
                 </div>
